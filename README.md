@@ -23,8 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Lamakira/social-proof)
-- Live Site URL: (https://lamakira.github.io/social-proof/)
+- Solution URL: (https://github.com/michael8e/social-proof)
 
 ### Built with
 
@@ -34,6 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [ARIKAMA CHABI SaÏd](https://www.your-site.com)
-- Frontend Mentor - [@Lamakira](https://www.frontendmentor.io/profile/Lamakira)
-- Twitter - [@arikama_said5](https://twitter.com/arikama_said5)
+- Website - [](https://www.your-site.com)
+- Twitter - [@_michael8e](https://twitter.com/_michael8e)
